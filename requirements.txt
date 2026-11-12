@@ -1,0 +1,9 @@
+cadquery==2.8.0
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+python-multipart>=0.0.20
+svgpathtools==1.8.0
+shapely>=2,<3
+pytest>=8,<10
+httpx>=0.27,<1
+trimesh>=4,<5
